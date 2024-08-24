@@ -8,6 +8,7 @@ const DashboardLayout = ({ children }) => {
           <li>Overview</li>
           <li>Reports</li>
           <li>Analytics</li>
+          <li>Reviews</li>
         </ul>
       </nav>
       <main className="main-content">
