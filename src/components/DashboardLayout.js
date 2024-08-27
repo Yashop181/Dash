@@ -3,7 +3,7 @@ const DashboardLayout = ({ children }) => {
   return (
     <div className="dashboard-container">
       <nav className="sidebar">
-        <h2>Dashboard</h2>
+        <h2>Admin Dashboard</h2>
         <ul>
           <li>Overview</li>
           <li>Reports</li>
