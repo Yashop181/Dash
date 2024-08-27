@@ -5,7 +5,7 @@ const DashboardLayout = ({ children }) => {
       <nav className="sidebar">
         <h2>Admin Dashboard</h2>
         <ul>
-          <li>Overview</li>
+          <li>Statistics</li>
           <li>Reports</li>
           <li>Analytics</li>
           <li>Reviews</li>
